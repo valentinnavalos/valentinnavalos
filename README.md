@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I am Valentín Avalos
+#### a Full Stack Developer and a Blockchain fan!
+![a Full Stack Developer and a Blockchain fan](https://i.ibb.co/qCTZ39z/tw-Wallpaper-Profile.jpg)
 
-<!--
-**valentinnavalos/valentinnavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Typescript to the list and I hope to continue my roadmap to Solidity development.🚀
 
-Here are some ideas to get you started:
+These last months at Henry coding bootcamp, in addition to the technical knownledge, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE
+
+- 🌱 I’m currently learning TypeScript and Blockchain development 
+- 👯 I’m looking to collaborate on Ethereum ecosystem 
+- 📫 How to reach me: valentinnavalos@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/valentinnavalos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/valentinnavalos//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/buustedbylearnn)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/valentinnavalos)](https://github.com/anuraghazra/github-readme-stats)
+
