@@ -6,7 +6,7 @@
 
 These last months at Henry coding bootcamp, in addition to the technical knownledge, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.👨‍💻💪
 
-Skills: JS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE
+Skills🤓: JS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE
 
 - 🌱 I’m currently learning TypeScript and Blockchain development 
 - 👯 I’m looking to collaborate on Ethereum ecosystem 
