@@ -4,7 +4,7 @@
 
 🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Typescript to the list and I hope to continue my roadmap to Solidity development.🚀
 
-These last months at Henry coding bootcamp, in addition to the technical knownledge, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.👨‍💻💪
+These last months at Henry coding bootcamp, in addition to the technical knownledge I learned, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.👨‍💻💪
 
 Skills🤓: JS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE / HTML / CSS
 
