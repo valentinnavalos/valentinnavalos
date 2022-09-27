@@ -2,13 +2,13 @@
 #### a Full Stack Developer and a Blockchain fan!
 ![a Full Stack Developer and a Blockchain fan](https://i.ibb.co/JBjMgqt/Whats-App-Image-2022-05-24-at-3-40-25-PM.jpg)
 
-🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Typescript to the list and I hope to continue my roadmap to Solidity development.🚀
+🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, TypeScript, React, Redux, TailwindCSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Typescript to the list and I hope to continue my roadmap to Solidity development.🚀
 
 These last months at Henry coding bootcamp, in addition to the technical knownledge I learned, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.👨‍💻💪
 
-Skills🤓: JS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE / HTML / CSS
+Skills🤓: JS / TS / REACT / REDUX / NODEjs / EXPRESSjs / SEQUELIZE / TailwindCSS
 
-- 🌱 I’m currently learning TypeScript and Blockchain development 
+- 🌱 I’m currently learning Blockchain development 
 - 👯 I’m looking to collaborate on Ethereum ecosystem 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentinnavalos/), [Twitter](https://twitter.com/valennavalos) or via email: valentinnavalos@gmail.com 
 
