@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Valentín Avalos
 #### a Full Stack Developer and a Blockchain fan!
 
-🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, TypeScript, React, Redux, TailwindCSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Typescript to the list and I hope to continue my roadmap to Solidity development.🚀
+🙋‍♂️I am Valentín, a focused, dedicated Full Stack Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, TypeScript, React, Redux, TailwindCSS, NodeJs, Express, Sequelize, and PostgreSQL as a database. Currently adding Solidity development.🚀
 
 These last months at Henry coding bootcamp, in addition to the technical knownledge I learned, I developed an infinite number of soft skills, such as teamwork, ability to adapt to constant change, empathy and above all, a continuous and accelerated learning.👨‍💻💪
 
